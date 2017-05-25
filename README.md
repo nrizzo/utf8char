@@ -1,2 +1,2 @@
 # utf8char
-Little C library to read UTF-8 characters from standard input and print them to standard output.
+Very little C library to create, store and copy UTF-8 characters read from standard input and to print them to standard output.
